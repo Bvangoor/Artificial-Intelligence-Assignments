@@ -1,0 +1,37 @@
+:-import member/2 from basics.
+
+/* 
+
+Adding X to queue to append at the beginning of the queue.
+Adding empty [] to queue will make the it remain same.
+Adding X to empty queue will give X
+
+*/
+queue(Q,X,[X|Q],Direction).
+
+queue(Q,[],Q,Direction).
+
+queue([],X,X,Direction).
+ /*
+ breadthFirstSearch : This uses the queue which is nothing but the list to separate the connections whose child will be explored. 
+ The explored paths will be pushed to queue and the path is stored. The directions are also stored as the progress is made.
+ 
+ */
+breadthFirstSearch(Start,Path,Direction) :-queue([],Start,Q2,Direction), breadthFirstSearch1(Q2,Path,Direction).
+
+/*
+
+This method returns true if there is a path from start to the goal.
+
+*/
+
+
+breadthFirstSearch1(Q,[G,Start|Remaining],Direction) :- connect(Start,G,Direction), queue(_,[Start|Remaining],Q,Direction),goal(G).
+
+
+breadthFirstSearch1(Q1,Solution,Direction) :- findall([Successor,Start|Remaining],(connect(Start,Successor,Direction),queue(Q2,[Start|Remaining],Q1,Direction),not(member(Successor,Remaining))), NewPaths), getOutput(NewPaths,Q2,Q3,Direction), breadthFirstSearch1(Q3,Solution,Direction).
+
+getOutput([],L,L,Direction).
+
+
+getOutput([X|L1],L2,[X|L3],Direction) :- getOutput(L1,L2,L3,Direction).

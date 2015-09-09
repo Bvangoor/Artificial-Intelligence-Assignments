@@ -1,0 +1,267 @@
+CSE101, Mon, 2:30 PM, Wed, 2:30 PM
+CSE102, Tue, 2:30 PM, Th, 2:30 PM
+CSE110, Mon, 1:00 PM, Fri, 1:00 PM
+CSE114, Mon, 8:00 AM, Wed, 8:00 AM, Fri, 8:00 AM
+CSE130, Mon, 10:00 AM, Wed, 10:00 AM, Fri, 10:00 AM
+CSE150, Mon, 1:00 PM, Fri, 1:00 PM
+CSE214, Mon, 12:00 PM, Wed, 12:00 PM, Fri, 12:00 PM
+CSE215, Mon, 2:30 PM, Wed, 2:30 PM
+CSE219, Mon, 1:00 PM, Fri, 1:00 PM
+CSE220, Tue, 8:30 AM, Th, 8:30 AM
+CSE260, Tue, 11:30 AM, Th, 11:30 AM
+CSE300, Tue, 1:00 PM, Th, 1:00 PM
+CSE301, Tue, 1:00 PM, Th, 1:00 PM
+CSE303, Mon, 8:30 AM, Wed, 8:30 AM
+CSE305, Mon, 4:00 PM, Wed, 4:00 PM
+CSE306, Tue, 2:30 PM, Th, 2:30 PM
+CSE307, Mon, 4:00 PM, Wed, 4:00 PM
+CSE308, Tue, 5:30 PM, Th, 5:30 PM
+CSE310, Tue, 2:30 PM, Th, 2:30 PM
+CSE312, Mon, 2:30 PM, Wed, 2:30 PM
+CSE320, Tue, 5:30 PM, Th, 5:30 PM
+CSE325, Tue, 4:00 PM, Th, 4:00 PM
+CSE334, Tue, 11:30 AM, Th, 11:30 AM
+CSE352, Mon, 2:30 PM, Wed, 2:30 PM
+CSE355, Tue, 11:30 AM, Th, 11:30 AM
+CSE371, Mon, 5:30 PM, Wed, 5:30 PM
+CSE373, Tue, 4:00 PM, Th, 4:00 PM
+CSE376, Tue, 8:30 AM, Th, 8:30 AM
+CSE381, Tue, 10:00 AM, Th, 10:00 AM
+CSE390, Mon, 8:30 AM, Wed, 8:30 AM
+CSE391, Mon, 11:30 AM, Wed, 11:30 AM
+CSE392, Tue, 1:00 PM, Th, 1:00 PM
+CSE393, Tue, 11:30 AM, Th, 11:30 AM
+CSE505, Mon, 2:30 PM, Wed, 2:30 PM
+CSE506, Tue, 8:30 AM, Th, 8:30 AM
+CSE509, Mon, 4:00 PM, Wed, 4:00 PM
+CSE527, Tue, 4:00 PM, Th, 4:00 PM
+CSE528, Mon, 2:30 PM, Wed, 2:30 PM
+CSE529, Mon, 5:30 PM, Wed, 5:30 PM
+CSE530, Mon, 4:00 PM, Wed, 4:00 PM
+CSE532, Mon, 5:30 PM, Wed, 5:30 PM
+CSE533, Mon, 4:00 PM, Wed, 4:00 PM
+CSE535, Mon, 1:00 PM, Fri, 1:00 PM
+CSE537, Tue, 1:00 PM, Th, 1:00 PM
+CSE540, Tue, 2:30 PM, Th, 2:30 PM
+CSE548, Tue, 11:30 AM, Th, 11:30 AM
+CSE549, Tue, 5:30 PM, Th, 5:30 PM
+
+CSE306, Mon, 2:30 PM
+CSE307, Fri, 4:00 PM
+CSE308, wed, 5:30 PM
+CSE310, Mon, 2:30 PM
+CSE312, Tue, 2:30 PM
+CSE320, Mon, 5:30 PM
+CSE325, Wed, 4:00 PM
+CSE334, Fri, 11:30 AM
+CSE352, Tue, 2:30 PM
+CSE355, Mon, 11:30 AM
+CSE371, Th, 5:30 PM
+CSE373, Wed, 4:00 PM
+CSE376, Mon, 8:30 AM
+CSE381, Wed, 10:00 AM
+CSE390, Fri, 8:30 AM
+CSE391, Fri, 11:30 AM
+CSE392, Wed, 1:00 PM
+CSE393, Mon, 11:30 AM
+CSE505, Tue, 2:30 PM
+CSE506, Wed, 8:30 AM
+
+CSE101, 115, yes
+CSE102, 53, yes
+CSE110, 391, no
+CSE114, 177, yes 
+CSE130, 49, yes
+CSE150, 13, no
+CSE214, 206, no
+CSE215, 138, no
+CSE219, 84, no
+CSE220, 156, yes
+CSE260, 23, yes
+CSE300, 42, yes
+CSE301, 20, no
+CSE303, 95, yes
+CSE305, 77, no
+CSE306, 36, no
+CSE307, 24, no
+CSE308, 45, yes
+CSE310, 80, yes
+CSE312, 50, no
+CSE320, 87, yes
+CSE325, 28, no
+CSE334, 24, yes
+CSE352, 33, no
+CSE355, 39, yes
+CSE371, 24, no
+CSE373, 80, yes
+CSE376, 45, yes
+CSE381, 29, no
+CSE390, 10, no
+CSE391, 50, yes
+CSE392, 30, no
+CSE393, 36, yes
+CSE505, 20, no
+CSE506, 89, yes
+CSE509, 54, yes
+CSE527, 60, yes
+CSE528, 51, yes
+CSE529, 36, no
+CSE530, 10, no
+CSE532, 100, yes
+CSE533, 80, yes
+CSE535, 60, yes
+CSE537, 69, no
+CSE540, 40, no
+CSE548, 82, yes
+CSE549, 63, yes
+
+CSE101, Java, C#, Awesome Hacking Skills, Security, Networking
+CSE102, C, Python, C#, Networking, Data structures
+CSE110, C, C++, Java, JavaScript, JSP, Python, C#
+CSE114, C, Java, JavaScript, JSP, Python, C#, Hacking Skills, Security, Networking
+CSE130, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE150, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills
+CSE214, C, C++, Java, JavaScript, Networking, Data structures 
+CSE215, Hacking Skills, Security, Networking, Data structures
+CSE219, C, C++, Python, C#, Awesome Hacking Skills, Security, Networking
+CSE220, Java, JavaScript, JSP, Python, C#
+CSE260, Hacking Skills, Security, Networking, Data structures
+CSE300, C, Security, Networking, Data structures
+CSE301, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE303, Java, JavaScript, JSP, Python, C#
+CSE305, C, C++, Java, JavaScript, JSP, Python
+CSE306, C, C++, Java, JavaScript, JSP, Python, C#
+CSE307, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking,Data structures
+CSE308, C, C++, Java
+CSE310, Security, Networking, Data structures
+CSE312, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE320, C, C++, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE325, C, C++, Security, Networking, Data structures
+CSE334, C, C++, Java, JavaScript, Data structures
+CSE352, C, C++, Security, Networking, Data structures
+CSE355, C, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE371, Security, Networking, Data structures
+CSE373, C, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE376, C, JavaScript, JSP, Python, C#, Security, Networking, Data structures
+CSE381, C, C++, Java, JavaScript, JSP, Python, C#
+CSE390, C, C++, Java, JavaScript, JSP, Python, C#, Data structures
+CSE391, C, C++,Data structures
+CSE392, Java, JavaScript, JSP, Python
+CSE393, C, C++, Java, JavaScript, JSP, Python, C#
+CSE505, C, C++Python, C#, Data structures
+CSE506, Java, JavaScript, JSP, Python, C#
+CSE509, C, Java, JavaScript, JSP, Python
+CSE527, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking,Data structures
+CSE528, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE529,C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures 
+CSE530, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE532, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE533, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security
+CSE535, C, C++, Java, JavaScript, JSP, Python, Security, Networking, Data structures
+CSE537, C, C++, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE540, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE548, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE549, C, Python, Hacking Skills, Security, Networking
+
+Mrs. Lauren Smith, Wed, 11:30 AM
+TA1, Mon, 2:30 PM 
+TA2, Wed, 2:30 PM
+TA3, Tue, 2:30 PM
+TA4, Mon, 1:00 PM
+TA5, Mon, 8:00 AM 
+TA6, Fri, 10:00 AM
+TA7, Wed, 8:00 AM
+TA8, Wed, 10:00 AM
+TA9, Mon, 1:00 PM
+TA10, Mon, 12:00 PM
+TA11, Fri, 12:00 PM
+TA12, Mon, 2:30 PM
+TA13, Mon, 1:00 PM
+TA14, Tue, 8:30 AM
+TA15, Tue, 11:30 AM
+TA16, Tue, 1:00 PM
+TA17, Mon, 8:30 AM
+TA18, Mon, 4:00 PM
+TA19, Tue, 2:30 PM
+TA20, Mon, 4:00 PM
+TA21, Tue, 5:30 PM
+TA22, Tue, 2:30 PM
+TA23, Mon, 2:30 PM
+TA24, Tue, 5:30 PM
+TA25, Tue, 4:00 PM
+TA26, Tue, 11:30 AM
+TA27, Mon, 2:30 PM
+TA28, Tue, 11:30 AM
+TA29, Mon, 5:30 PM
+TA30, Tue, 4:00 PM
+TA31, Tue, 8:30 AM
+TA32, Wed, 4:00 PM
+TA33, Tue, 10:00 AM
+TA34, Mon, 8:30 AM
+TA35, Mon, 11:30 AM
+TA36, Tue, 1:00 PM
+TA37, Tue, 11:30 AM
+TA38, Mon, 2:30 PM
+TA39, Tue, 8:30 AM
+TA40, Mon, 4:00 PM
+TA41, Tue, 4:00 PM
+TA42, Mon, 2:30 PM
+TA43, Mon, 5:30 PM
+TA44, Mon, 4:00 PM
+TA45, Mon, 5:30 PM
+TA46, Mon, 4:00 PM
+TA47, Mon, 1:00 PM
+TA48, Tue, 1:00 PM
+TA49, Tue, 2:30 PM
+TA50, Tue, 11:30 AM
+
+TA1, C, C++, Java, JavaScript
+TA2, Java, JavaScript, JSP, Python
+TA3, C, Java, JavaScript, JSP
+TA4, C, C++, Python
+TA5, Java, JavaScript, JSP, Python
+TA6, C, C++, Java, JavaScript, JSP, Python
+TA7, C, C++, Java, JavaScript, JSP, Python
+TA8, C, C++, Java, JavaScript, JSP, Python
+TA9, JSP, Python
+TA10, C, JSP, Python
+TA11, C, C++, Java, JavaScript, JSP, Python
+TA12, C, JavaScript, JSP, Python
+TA13, C, Java, JavaScript, JSP, Python
+TA14, C, JavaScript, JSP, Python
+TA15, Java, JavaScript, JSP, Python
+TA16, C, Java, JavaScript, JSP
+TA17, C, C++, Java, JavaScript, JSP, Python
+TA18, C, C++, Java
+TA19, C, Java, JavaScript
+TA20, JSP, Python
+TA21, C, Python
+TA22, C, C++
+TA23, C, C++, Java, JavaScript, JSP, Python
+TA24, C, C++
+TA25, C, C++, Java, JavaScript, JSP, Python
+TA26, C, C++
+TA27, C, C++, Java, JavaScript, JSP
+TA28, C, Python
+TA29, C, C++, Java
+TA30, C, C++, Java, JavaScript
+TA31, C, C++, Java, JavaScript, JSP, Python
+TA32, C, C++, Java, JavaScript, JSP, Python
+TA33, C, C++, Java, JavaScript, JSP, Python
+TA34, C, C++, Java, JavaScript, JSP, Python
+TA35, C, C++, Java, JavaScript, JSP, Python
+TA36, JSP, Python
+TA37, C, JavaScript, JSP, Python
+TA38, C, Python
+TA39, C, Java, JavaScript, JSP, Python
+TA40, C, JSP, Python
+TA41, Java, JavaScript, JSP, Python
+TA42, JSP, Python
+TA43, C++, Java
+TA44, Java, JavaScript, JSP, Python
+TA45, JSP, Python
+TA46, C, JSP, Python
+TA47, C, C++, Java, JavaScript, JSP, Python
+TA48, C, C++, Java, JavaScript, JSP, Python
+TA49, C, C++, Java, JavaScript, JSP, Python
+TA50, C, C++, Java, JavaScript, JSP, Python

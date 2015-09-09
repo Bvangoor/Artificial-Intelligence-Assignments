@@ -1,0 +1,23 @@
+:-import member/2,reverse/2 from basics.
+
+/*
+
+depthFirstSearch method has the start, the Path that needs to be stored and the Direction to the destination. The direction needs to be returned as the list
+to the pacman to allow it to move to the destination.
+
+*/
+
+depthFirstSearch(Start,Path,Direction) :-depthFirstSearch1(Start,[Start],ThePath,Direction),reverse(ThePath,Path).
+
+/*
+The stop condition for the depthFirstSearch1 to stop when the goal node is reached.
+*/
+
+depthFirstSearch1(Start,Path,Path,Direction) :- goal(Start).
+
+/*
+
+The depthFirstSearch1 is done for the connections as and when they are explored and are stored. The directions are also stored as it has to be returned as a list.
+*/
+
+depthFirstSearch1(Start,Explored,[Explored|Path],Direction) :-connect(Start,Start2,D),\+(member(Start2,Explored)),depthFirstSearch1(Start2,[Start2|Explored], Path,Direction).

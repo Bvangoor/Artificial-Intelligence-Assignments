@@ -1,0 +1,48 @@
+:-import member/2 from basics.
+
+/* 
+
+Adding X to queue to append at the beginning of the queue.
+Adding empty [] to queue will make the it remain same.
+Adding X to empty queue will give X
+
+*/
+
+queue(Q,X,[X|Q],Direction).
+
+queue(Q,[],Q,Direction).
+
+queue([],X,X,Direction).
+
+ /*
+ AStarAlgorithm : This uses the queue which is nothing but the list to separate the connections whose child will be explored. 
+ The explored paths will be pushed to queue and the path is stored. The directions are also stored as the progress is made.
+ 
+ */
+AStarAlgorithm(Start,Path,Direction) :-queue([],Start,Q2,Direction), AStarAlgorithm1(Q2,Path,Direction).
+
+/*
+
+This method returns true if there is a path from start to the goal.
+
+*/
+
+AStarAlgorithm1(Q,[G,Start|Remaining],Direction) :- connect(Start,G,Direction), queue(_,[Start|Remaining],Q,Direction),goal(G).
+
+AStarAlgorithm1(Q1,Solution,Direction) :- findall([Successor,Start|Remaining],(connect(Start,Successor,Direction),queue(Q2,[Start|Remaining],Q1,Direction),not(member(Successor,Remaining))), NewPaths), getOutput(NewPaths,Q2,Q3,Direction), sortingAlgorithm(Remaining,Sorted), AStarAlgorithm1(Q3,Solution,Direction).
+
+getOutput([],L,L,Direction).
+
+getOutput([X|L1],L2,[X|L3],Direction) :- getOutput(L1,L2,L3,Direction).
+
+/* 
+
+The below method is used to sort the heuristics that we use in the Astar algorithm. The perm method gives the various permutations possible for the given input
+and the sort method checks for the sorted list from the permutation.
+
+*/
+
+sortingAlgorithm(List,Sorted):-perm(List,Sorted),sort(Sorted).
+sort([_]).
+sort([]).
+sort([X,Y|T]):-X=<Y,sort([Y|T]).

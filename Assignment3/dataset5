@@ -1,0 +1,116 @@
+CSE101, Mon, 2:30 PM, Wed, 2:30 PM
+CSE102, Tue, 2:30 PM, Th, 2:30 PM
+CSE110, Mon, 1:00 PM, Fri, 1:00 PM
+CSE114, Mon, 8:00 AM, Wed, 8:00 AM, Fri, 8:00 AM
+CSE130, Mon, 10:00 AM, Wed, 10:00 AM, Fri, 10:00 AM
+CSE150, Mon, 1:00 PM, Fri, 1:00 PM
+CSE214, Mon, 12:00 PM, Wed, 12:00 PM, Fri, 12:00 PM
+CSE215, Mon, 2:30 PM, Wed, 2:30 PM
+CSE219, Mon, 1:00 PM, Fri, 1:00 PM
+CSE220, Tue, 8:30 AM, Th, 8:30 AM
+CSE260, Tue, 11:30 AM, Th, 11:30 AM
+CSE300, Tue, 1:00 PM, Th, 1:00 PM
+CSE301, Tue, 1:00 PM, Th, 1:00 PM
+CSE303, Mon, 8:30 AM, Wed, 8:30 AM
+CSE305, Mon, 4:00 PM, Wed, 4:00 PM
+CSE306, Tue, 2:30 PM, Th, 2:30 PM
+CSE307, Mon, 4:00 PM, Wed, 4:00 PM
+CSE308, Tue, 5:30 PM, Th, 5:30 PM
+CSE310, Tue, 2:30 PM, Th, 2:30 PM
+CSE312, Mon, 2:30 PM, Wed, 2:30 PM
+
+CSE101, Tue, 2:30 PM
+CSE102, Wed, 2:30 PM
+CSE110, Fri, 1:00 PM
+CSE114, Tue, 8:00 AM
+CSE130, Fri, 10:00 AM
+CSE150, Wed, 1:00 PM
+CSE214, Wed, 12:00 PM
+CSE215, Tue, 2:30 PM
+CSE219, Fri, 1:00 PM
+CSE220, Mon, 8:30 AM
+CSE260, Mon, 11:30 AM
+CSE300, Wed, 1:00 PM
+CSE301, Th, 1:00 PM
+CSE303, Th, 8:30 AM
+CSE305, Fri, 4:00 PM
+CSE306, Mon, 2:30 PM
+CSE307, Fri, 4:00 PM
+CSE308, wed, 5:30 PM
+CSE310, Mon, 2:30 PM
+CSE312, Tue, 2:30 PM
+
+CSE101, 44, yes
+CSE101, 115, yes
+CSE102, 53, yes
+CSE110, 391, no
+CSE114, 177, yes 
+CSE130, 49, yes
+CSE150, 13, no
+CSE214, 206, no
+CSE215, 138, no
+CSE219, 84, no
+CSE220, 156, yes
+CSE260, 23, yes
+CSE300, 42, yes
+CSE301, 20, no
+CSE303, 95, yes
+CSE305, 77, no
+CSE306, 36, no
+CSE307, 24, no
+CSE308, 45, yes
+CSE310, 80, yes
+CSE312, 50, no
+
+CSE101, Java, C#, Awesome Hacking Skills
+CSE102, C, Python, C#, Networking, Data structures
+CSE110, C, C++, Java, JavaScript, JSP, Python, C#,
+CSE114, C, Java, JavaScript, JSP, Python, C#, Hacking Skills, Security, Networking
+CSE130, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE150, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills
+CSE214, C, C++, Java, JavaScript, Networking, Data structures 
+CSE215, Hacking Skills, Security, Networking, Data structures
+CSE219, C, C++, Python, C#, Awesome Hacking Skills, Security, Networking
+CSE220, Java, JavaScript, JSP, Python, C#
+CSE260, Hacking Skills, Security, Networking, Data structures
+CSE300, C, Security, Networking, Data structures
+CSE301, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE303, Java, JavaScript, JSP, Python, C#
+CSE305, C, C++, Java, JavaScript, JSP, Python
+CSE306, C, C++, Java, JavaScript, JSP, Python, C#
+CSE307, C, C++, Java, JavaScript, JSP, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+CSE308, C, C++, Java
+CSE310, Security, Networking, Data structures
+CSE312, Python, C#, Awesome Hacking Skills, Security, Networking, Data structures
+
+TA1, Mon, 2:30 PM 
+TA2, Wed, 2:30 PM
+TA3, Tue, 2:30 PM
+TA4, Mon, 1:00 PM
+TA5, Mon, 8:00 AM 
+TA6, Fri, 10:00 AM
+TA7, Wed, 8:00 AM
+TA8, Wed, 10:00 AM
+TA9, Mon, 1:00 PM
+TA10, Mon, 12:00 PM
+TA11, Fri, 12:00 PM
+TA12, Mon, 2:30 PM
+TA13, Mon, 1:00 PM
+TA14, Tue, 8:30 AM
+TA15, Tue, 11:30 AM
+
+TA1, C, C++, Java, JavaScript
+TA2, Java, JavaScript, JSP, Python
+TA3, C Java, JavaScript, JSP
+TA4, C, C++, Python
+TA5, Java, JavaScript, JSP, Python
+TA6, C, C++, Java, JavaScript, JSP, Python
+TA7, C, C++, Java, JavaScript, JSP, Python
+TA8, C, C++, Java, JavaScript, JSP, Python
+TA9, JSP, Python
+TA10, C, JSP, Python
+TA11, C, C++, Java, JavaScript, JSP, Python
+TA12, C, JavaScript, JSP, Python
+TA13, C, Java, JavaScript, JSP, Python
+TA14, C, JavaScript, JSP, Python
+TA15, Java, JavaScript, JSP, Python
